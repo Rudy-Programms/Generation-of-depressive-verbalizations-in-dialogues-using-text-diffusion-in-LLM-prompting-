@@ -1,0 +1,13 @@
+datasets==3.6.0
+numpy==1.26.4
+pandas==2.2.3
+torch==2.2.2
+transformers==4.41.2
+accelerate==0.31.0
+sentence-transformers==3.0.1
+safetensors==0.4.3
+vec2text==0.0.13
+tqdm==4.67.1
+wandb==0.19.11
+google-genai>=0.3.0
+accelerate==0.31.0
